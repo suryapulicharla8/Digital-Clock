@@ -1,0 +1,140 @@
+.main-flex-continer {
+    height: 1000px;
+    width: 100%;
+    background-color: darkorchid;
+
+}
+.sub-main-container {
+    height: 300px;
+    width:400px;
+    background-color: white;
+    border-radius: 10px;
+    /* padding-left: 10%; */
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.sub-container-1 {
+    height: 50px;
+    width:40%;
+    background-color: blue;
+    color:black;
+    border-radius: 10px;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-left:10% ;
+    margin-top: 15px;
+}
+.sub-container-2 {
+    height: 30px;
+    width: 20%;
+    background: linear-gradient(to right,red,green,blue);
+    border-radius: 20px;
+    margin-left: 10%;
+    margin-top: 15px;
+    text-align: center;
+}
+#img-clock {
+    padding-top: 3%;
+    padding-left: 10%;
+}
+h3 {
+    padding: 2%;
+    /* margin-top: 20px; */
+}
+.sub-container-3 {
+    height: 80px;
+    width: 20%;
+    background-color:red;
+    color:white;
+    border-radius: 20px;
+    margin-left: 31%;
+    margin-top: -25px;
+    /* margin-bottom: -3%; */
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    padding-top: 20px;
+}
+.clock {
+    height:100px;
+    width: 40%;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 55%;
+    border-radius: 10px;
+    /* margin-bottom: 10%; */
+    margin-top: -500px;
+}
+.clock div {
+    background-color: white;
+    height: 50px;
+    width: 20%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: aqua;
+    border-radius: 10px;
+    letter-spacing: 3px;
+}
+span {
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+}
+#wake-up-img {
+    padding-top: 5%;
+    padding-left: 5%;
+}
+lable {
+    margin-left: 30px;
+}
+select {
+    width: 160px;
+    margin-left: 25px;
+}
+#lunch-img {
+    padding-top: 5%;
+    padding-left: 5%;
+
+}
+#nap-img {
+    padding-top: 5%;
+    padding-left: 5%;
+
+}
+#night-img {
+    padding-top: 5%;
+    padding-left: 5%;
+}
+.sub-container-4 {
+    height: 100px;
+    width: 40%;
+    background-color:green ;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+    margin-left: 55%;
+    
+}
+h2 {
+    /* text-align: center;
+    margin-top: 10%; */
+    padding: 8%;
+}
+.sub-container-5 {
+    margin-left: 55%;
+    margin-top: -100px;
+}
+.sub-container-2:hover {
+    text-transform: capitalize;
+   
+    background:linear-gradient(to right,green,red,blue) ;
+}
+
+.wakeee {
+    margin-top: -800px;
+}
